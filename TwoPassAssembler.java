@@ -264,11 +264,3 @@ public class TwoPassAssembler {
 		return tok;
 	}//end of getToken
 }//End of TwoPassAssembler
-
-/*
-Note: After getting most of the way through this I've realized this is probably a bad way to go about this.
-I didn't know that the name of the file could be input and then used, though it seems obvious now. That is
-why I decided to use raw input, and why the whole thing seems so awkward. I will probably try and redo this
-in a much better and more efficient way, but that may have to be after I turn it in this way. For now, I'm
-just going to keep going like this until I finish/
-*/
