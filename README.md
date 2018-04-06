@@ -5,4 +5,6 @@ Full details for the assignment are available in TwoPassAssemblerAssignment.pdf
 
 The first pass generates the symbol table, and the second pass generates the binary output file.
 
+This assembler generates binary instructions that can be used by my Virtual Machine, in a seperate repository.
+
 
